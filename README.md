@@ -6,4 +6,4 @@ this is just an doedel, i did not test it!
 Do you like the idea?
 Want to help?
 get in touch with me?
-http://forums.sentora.org/member.php?action=profile&uid=19
+http://forums.sentora.org/member.php?action=profile&uid=19&referrer=19
