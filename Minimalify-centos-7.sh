@@ -1,7 +1,7 @@
 echo "Downloading minimal package list..."
 while true; do
 	wget -nv -O minimal_packages.txt https://raw.githubusercontent.com/Ron-e/Minimalify/master/OS/CentOS/7/minimal_packages.txt
-	if [[ -f sentora_core.zip ]]; then
+	if [[ -f minimal_packages.txt ]]; then
 		break;
 	else
 		echo "Failed to download minimal package list from Github."
