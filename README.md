@@ -1,5 +1,7 @@
 # Minimalify
 
+DO NOT USE THIS TOOL!!!!
+
 Just doedel-ing a bash script which removes all packages from CentOS and maybe someday Ubunbtu so they will not interfere with installers like Sentora.
 
 this is just an doedel, i did not test it!
